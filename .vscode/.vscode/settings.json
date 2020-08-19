@@ -1,0 +1,21 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "algorithm": "cpp",
+        "cstring": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp"
+    }
+}
